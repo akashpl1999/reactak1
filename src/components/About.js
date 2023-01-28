@@ -19,6 +19,7 @@ const About = () => {
 
 
         <div  style={{backgroundColor:"purple"}}>
+            <h1>hello world</h1>
 
             <Grid container spacing={3}>
                 <Grid item xs={6}>
